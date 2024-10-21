@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+.mx-1{
+  margin-top: 0.5rem;
+}
+
+.mx-2{
+  margin-top: 0.5rem;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
